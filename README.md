@@ -1,4 +1,4 @@
-![Project Logo](Siraj.jpg)
+<img src="Siraj.jpg" width="150">
 # Siraj
 
 ## About the Project

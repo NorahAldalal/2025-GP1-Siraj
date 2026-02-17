@@ -1,4 +1,6 @@
-<img src="Siraj.jpg" width="50%" height="auto">
+<p align="center">
+  <img src="Siraj.jpg" width="50%">
+</p>
 
 # Siraj
 

@@ -1,4 +1,4 @@
-<img src="Siraj.jpg" width="100%" height="auto">
+<img src="Siraj.jpg" width="50%" height="auto">
 
 # Siraj
 

@@ -1,3 +1,4 @@
+![Project Logo](Siraj.jpg)
 # Siraj
 
 ## About the Project

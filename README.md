@@ -1,4 +1,5 @@
-<img src="Siraj.jpg" width="150">
+<img src="Siraj.jpg" width="100%" height="auto">
+
 # Siraj
 
 ## About the Project

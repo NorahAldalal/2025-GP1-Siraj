@@ -1,5 +1,5 @@
 # Siraj
-# Siraj - Smart IoT-Based Street Lighting System
+ Smart IoT-Based Street Lighting System
 
 ## About the Project
 

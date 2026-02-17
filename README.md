@@ -1,1 +1,29 @@
 # Siraj
+# Siraj - Smart IoT-Based Street Lighting System
+
+## About the Project
+
+Siraj is a smart IoT-based street lighting system designed to monitor and reduce light pollution in urban areas while optimizing energy consumption. The system uses ESP32 microcontrollers with environmental sensors to automatically adjust streetlight brightness based on ambient light conditions and human activity.
+*This project aims to support Saudi Vision 2030's environmental sustainability goals by reducing light pollution and energy waste in urban lighting infrastructure.*
+
+## Key Features
+
+- Real-time light pollution monitoring and measurement
+- Automatic brightness control based on ambient light and motion detection
+- Interactive web dashboard with light pollution heatmaps
+- Multi-zone management for targeted control
+- Auto-failure compensation for enhanced reliability
+- Energy savings through adaptive control
+
+## Team
+ 
+**Institution:** King Saud University - CCIS  
+**Course:** IT 496 - Graduation Project   
+**Students:** 
+Norah Abdulrahman Aldalal
+Aseel Abdulaziz Almubaddal
+deema abdullah alfarhoud
+Reema Abdulaziz Alnajim
+
+## Supervisor
+Dr. Ameera Masoud Almasoud

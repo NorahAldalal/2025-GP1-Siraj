@@ -18,13 +18,10 @@ Siraj is a smart IoT-based street lighting system designed to monitor and reduce
  
 **Institution:** King Saud University - CCIS  
 **Course:** IT 496 - Graduation Project   
-**Students:** 
-Norah Abdulrahman Aldalal
-
-Aseel Abdulaziz Almubaddal
-
-deema abdullah alfarhoud
-
+**Students:** <br>
+Norah Abdulrahman Aldalal <br>
+Aseel Abdulaziz Almubaddal <br>
+deema abdullah alfarhoud <br>
 Reema Abdulaziz Alnajim
 
 ## Supervisor
